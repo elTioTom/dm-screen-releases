@@ -16,7 +16,7 @@ Windows 10 u 11 (64 bits). Pesa unos 110 MB.
 3. Se instala sola, sin pedir permisos de administrador, y deja un acceso directo **EZDM** en el escritorio.
 4. La primera vez te pide el **código de beta**: pégalo tal como te llegó (empieza con `EZDM-`) y toca **Activar**.
 
-**¿Tenías instalada la versión vieja "DM Screen"?** Desinstálala desde *Configuración → Aplicaciones* después de instalar EZDM. Tus campañas no se borran: las dos usan la misma carpeta de datos.
+**¿Tenías instalada la versión vieja "DM Screen"?** Desinstálala **antes** de instalar EZDM, desde *Configuración → Aplicaciones → DM Screen → Desinstalar* (si la desinstalas después, se lleva EZDM con ella). Tus campañas no se borran: quedan en otra carpeta y EZDM las ve apenas la abres.
 
 ## Actualizaciones
 
