@@ -20,7 +20,9 @@ Windows 10 u 11 (64 bits). Pesa unos 110 MB.
 
 ## Actualizaciones
 
-No tienes que hacer nada. Cada vez que abres EZDM con internet, revisa si hay una versión nueva y la descarga en silencio. En la pantalla de campañas aparece *"Hay una versión nueva"* y se instala sola **cuando cierras la app**. Nunca se reinicia en medio de una partida. Sin internet funciona igual, solo que no se actualiza.
+No tienes que hacer nada. Cada vez que abres EZDM con internet, revisa si hay una versión nueva y baja solo lo que cambió, en silencio. En la pantalla de campañas aparece *"Hay una versión nueva"* y se usa **la próxima vez que abras la app**. Nunca cambia nada en medio de una partida. Sin internet funciona igual, solo que no se actualiza.
+
+Muy de vez en cuando una versión necesita reinstalar la app: en ese caso el aviso trae un link para descargarla, y se instala encima sin perder nada.
 
 Las versiones y lo que trae cada una están en [Releases](https://github.com/elTioTom/dm-screen-releases/releases).
 
